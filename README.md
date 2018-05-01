@@ -21,4 +21,5 @@ A user can hold several weapons in his/her inventory and that weapon has health.
 
 
 This is a term project for CEng498 at METU
+
 Enver Evci-Onat Buyukakkus
